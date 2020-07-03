@@ -45,7 +45,7 @@ Gasolina:
   * Até 20 litros, desconto de 4% por litro.
   * Acima de 20 litros, desconto de 6% por litro.
 
-### 7. Faça um programa para receber as informações de atletas em uma competição de salto em distância e informar quais são os 3 primeiros lugares respeitando as condições abaixo:
+### 6. Faça um programa para receber as informações de atletas em uma competição de salto em distância e informar quais são os 3 primeiros lugares respeitando as condições abaixo:
 
   * Cada atleta deve fazer 5 saltos
   * O Resultado do atleta será calculado pela média dos seus saltos.
