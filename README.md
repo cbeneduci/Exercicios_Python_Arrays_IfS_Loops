@@ -1,17 +1,13 @@
-# 1. Faça um programa para a leitura de três notas parciais de um aluno para cinco matérias. O programa deve calcular a média alcançada por aluno e apresentar:
-    * A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
-    * A mensagem "Reprovado", se a média for menor do que sete;
-    * A mensagem "Aprovado com Distinção", se a média for igual a dez.
+### 1. Faça um Programa que leia três números armazene em um array, em um print mostre mostre o maior deles e em outro todos os valores ordenados de forma decrescente.
 
+### 2. Faça um programa para a leitura de três notas parciais de um aluno para cinco matérias. O programa deve calcular a média alcançada por aluno e apresentar para cada matéria:
 
+* A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+* A mensagem "Reprovado", se a média for menor do que sete;
+* A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
+### 3. As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
 
-
-
-2. Faça um Programa que leia três números armazene em um array, mostre mostre o maior deles e uma ordenação do maior pro menor.
-
-
-3. As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
 Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
 salários até R$ 280,00 (incluindo) : aumento de 20%
 salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
