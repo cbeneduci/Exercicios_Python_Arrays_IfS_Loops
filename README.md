@@ -2,8 +2,6 @@
 
 ### 2. Faça um programa para a leitura de três notas parciais de um aluno para cinco matérias. O programa deve calcular a média alcançada por aluno e apresentar para cada matéria:
 
-O Programa será executado N vezes até que o nenhum nome seja digitado no aluno.
-
 * A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
 * A mensagem "Reprovado", se a média for menor do que sete;
 * A mensagem "Aprovado com Distinção", se a média for igual a dez.
@@ -54,5 +52,4 @@ Gasolina:
   
  Depois de cadastrar o nome de todos os atletas e contabilizar os saltos de cada um deles, imprima na tela o nome do atleta, o valor de cada um dos cinco saltos, a média dele e a posição dele.
  **Importante**, essa impressão deve ser em ordem crescente como um ranking de posições.
-
 
